@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\bin\Debug\net5.0\BookLibraryUtility.deps.json
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\bin\Debug\net5.0\BookLibraryUtility.dll
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\bin\Debug\net5.0\ref\BookLibraryUtility.dll
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\bin\Debug\net5.0\BookLibraryUtility.pdb
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\BookLibraryUtility.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\BookLibraryUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\BookLibraryUtility.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\BookLibraryUtility.AssemblyInfo.cs
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\BookLibraryUtility.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\BookLibraryUtility.dll
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\ref\BookLibraryUtility.dll
+C:\Users\hp\source\repos\BookLibrarySlnOne\BookLibraryUtility\obj\Debug\net5.0\BookLibraryUtility.pdb
